@@ -46,7 +46,7 @@ Estrutura do tipo LIFO (*Last In, First Out*), onde o último a entrar é o prim
 
 ---
 
-### 5. Árvore Binária de Busca )
+### 5. Árvore Binária 
 Organiza elementos de forma hierárquica. Elementos à esquerda são menores e à direita, maiores que o nó atual.
 
 **Principais métodos:**
