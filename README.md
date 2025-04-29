@@ -3,9 +3,9 @@
 Este repositório contém implementações básicas de estruturas de dados fundamentais utilizando Python puro. Cada estrutura foi colocada em uma pasta separada para facilitar a organização, compreensão e reutilização do código. O objetivo principal é servir como material de apoio ao aprendizado.
 
 ## Estruturas Implementadas
-
+https://github.com/esdras-dev/estrutura_de_dados/settings
 ### 1. Fila (`Fila/queue.py`)
-Estrutura do tipo FIFO (First In, First Out), onde o primeiro a entrar é o primeiro a sair. Utiliza `collections.deque` para melhor performance.
+Estrutura do tipo FIFO (*First In, First Out*), onde o primeiro a entrar é o primeiro a sair. Utiliza `collections.deque` para melhor performance.
 
 **Principais métodos:**
 - `enfileirar(item)`
@@ -35,7 +35,7 @@ Versão da lista encadeada onde os elementos são inseridos já em ordem crescen
 ---
 
 ### 4. Pilha (`Pilhas/stack.py`)
-Estrutura do tipo LIFO (Last In, First Out), onde o último a entrar é o primeiro a sair.
+Estrutura do tipo LIFO (*Last In, First Out*), onde o último a entrar é o primeiro a sair.
 
 **Principais métodos:**
 - `empilhar(item)`
@@ -53,11 +53,19 @@ Organiza elementos de forma hierárquica. Elementos à esquerda são menores e �
 - `inserir(valor)`
 - `em_ordem()` – imprime os valores ordenadamente
 
----
+---  
 
-## Como usar
+## Referências
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/estruturas-de-dados-python.git
-cd estruturas-de-dados-python
+As implementações deste repositório foram baseadas em livros e cursos disponíveis online:
+
+- Curso em Vídeo – Gustavo Guanabara:  
+  [Estrutura de Dados em Python – YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+  
+- Documentação oficial do Python: python.org
+- 
+- Livro - automatize tarefas maçantes com python programação prática para verdadeiros iniciantes
+- 
+  [Python Standard Library](https://docs.python.org/3/library/)
+
+
