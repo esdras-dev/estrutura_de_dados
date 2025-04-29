@@ -63,9 +63,9 @@ As implementações deste repositório foram baseadas em livros e cursos dispon�
   [Estrutura de Dados em Python – YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
   
 - Documentação oficial do Python: python.org
-- 
+  
 - Livro - automatize tarefas maçantes com python programação prática para verdadeiros iniciantes
-- 
-  [Python Standard Library](https://docs.python.org/3/library/)
+
+ - [Python Standard Library](https://docs.python.org/3/library/)
 
 
