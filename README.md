@@ -4,7 +4,7 @@ Este repositório contém implementações básicas de estruturas de dados funda
 
 ## Estruturas Implementadas
 https://github.com/esdras-dev/estrutura_de_dados/settings
-### 1. Fila (`Fila/queue.py`)
+### 1. Fila 
 Estrutura do tipo FIFO (*First In, First Out*), onde o primeiro a entrar é o primeiro a sair. Utiliza `collections.deque` para melhor performance.
 
 **Principais métodos:**
@@ -16,7 +16,7 @@ Estrutura do tipo FIFO (*First In, First Out*), onde o primeiro a entrar é o pr
 
 ---
 
-### 2. Lista Encadeada (`Listas_Encadeadas/linked_list.py`)
+### 2. Lista Encadeada
 Lista composta por nós que apontam para o próximo elemento. Ideal para inserções/remoções rápidas no início.
 
 **Principais métodos:**
@@ -25,7 +25,7 @@ Lista composta por nós que apontam para o próximo elemento. Ideal para inserç
 
 ---
 
-### 3. Lista Ordenada (`Listas_Ordenadas/ordered_list.py`)
+### 3. Lista Ordenada 
 Versão da lista encadeada onde os elementos são inseridos já em ordem crescente.
 
 **Principais métodos:**
@@ -34,7 +34,7 @@ Versão da lista encadeada onde os elementos são inseridos já em ordem crescen
 
 ---
 
-### 4. Pilha (`Pilhas/stack.py`)
+### 4. Pilha (stack)
 Estrutura do tipo LIFO (*Last In, First Out*), onde o último a entrar é o primeiro a sair.
 
 **Principais métodos:**
@@ -46,7 +46,7 @@ Estrutura do tipo LIFO (*Last In, First Out*), onde o último a entrar é o prim
 
 ---
 
-### 5. Árvore Binária de Busca (`Arvores_Binarias/binary_tree.py`)
+### 5. Árvore Binária de Busca )
 Organiza elementos de forma hierárquica. Elementos à esquerda são menores e à direita, maiores que o nó atual.
 
 **Principais métodos:**
